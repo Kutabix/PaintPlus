@@ -1,1 +1,1 @@
-# PaintPlus
+# PaintPluss
